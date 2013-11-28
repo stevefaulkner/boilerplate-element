@@ -2,11 +2,11 @@
 
 TODO: Write a project description
 
-> Maintained by [Your Name](https://github.com/yourname).
+> Maintained by [Steve Faulkner](https://github.com/stevefaulkner).
 
 ## Demo
 
-> [Check it live](http://customelements.github.io/boilerplate-element).
+> [Check it live](http://stevefaulkner.github.io/subhead-custom-element).
 
 ## Usage
 
@@ -19,13 +19,13 @@ TODO: Write a project description
 2. Import Custom Element:
 
 	```html
-	<link rel="import" href="src/my-element.html">
+	<link rel="import" href="src/subhead-element.html">
 	```
 
 3. Start using it!
 
 	```html
-	<my-element></my-element>
+	<subhead></subhead>
 	```
 
 ## Options
@@ -47,7 +47,7 @@ Attribute  | Options                   | Default             | Description
 
 ## History
 
-* v0.0.1 August 19, 2013
+* v0.0.1 November, 2013
 	* Started project using [boilerplate-element](https://github.com/customelements/boilerplate-element)
 
 ## License
