@@ -6,7 +6,7 @@ TODO: Write a project description
 
 ## Demo
 
-> [Check it live](http://stevefaulkner.github.io/subhead-custom-element).
+> [Check it live](http://stevefaulkner.github.io/subhead-custom-element.html).
 
 ## Usage
 
